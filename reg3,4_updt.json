@@ -2,7 +2,7 @@
  {
   "region": "Region (3) & (4)",
   "township": "NayPyiTaw",
-  "office phone": "09977835664",
+  "office phone": "977835664",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -10,25 +10,25 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "NayPyiTaw"
  },
  {
   "region": "Region (3) & (4)",
   "township": "Mandalay",
-  "office phone": "09977835325",
-  "phone1": "09977835209",
-  "phone2": "09977835366",
-  "phone3": "09977835373",
-  "phone4": "09941655467",
+  "office phone": "977835325",
+  "phone1": "977835209",
+  "phone2": "977835366",
+  "phone3": "977835373",
+  "phone4": "941655467",
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Mandalay"
  },
  {
   "region": "Region (3) & (4)",
   "township": "MeikTiLa",
-  "office phone": "09977835340",
+  "office phone": "977835340",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -36,12 +36,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "MeikTiLa"
  },
  {
   "region": "Region (3) & (4)",
   "township": "Nyaung-U",
-  "office phone": "09977835924",
+  "office phone": "977835924",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -49,12 +49,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Nyaung-U"
  },
  {
   "region": "Region (3) & (4)",
   "township": "KyaukPaDaung",
-  "office phone": "09977873519",
+  "office phone": "977873519",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -62,12 +62,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "KyaukPaDaung"
  },
  {
   "region": "Region (3) & (4)",
   "township": "Mogok",
-  "office phone": "09941655486",
+  "office phone": "941655486",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -75,12 +75,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Mogok"
  },
  {
   "region": "Region (3) & (4)",
   "township": "MyinGyan",
-  "office phone": "09977835813",
+  "office phone": "977835813",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -88,12 +88,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "MyinGyan"
  },
  {
   "region": "Region (3) & (4)",
   "township": "Pyin Oo Lwin",
-  "office phone": "09977835756",
+  "office phone": "977835756",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -101,12 +101,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Pyin Oo Lwin"
  },
  {
   "region": "Region (3) & (4)",
   "township": "Monywa",
-  "office phone": "09977835288",
+  "office phone": "977835288",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -114,12 +114,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Monywa"
  },
  {
   "region": "Region (3) & (4)",
   "township": "ShweBo",
-  "office phone": "09977835237",
+  "office phone": "977835237",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -127,12 +127,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "ShweBo"
  },
  {
   "region": "Region (3) & (4)",
   "township": "Saggaing",
-  "office phone": "09941655658",
+  "office phone": "941655658",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -140,12 +140,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Saggaing"
  },
  {
   "region": "Region (3) & (4)",
   "township": "Tamue",
-  "office phone": "09977835952",
+  "office phone": "977835952",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -153,12 +153,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Tamue"
  },
  {
   "region": "Region (3) & (4)",
   "township": "Magway",
-  "office phone": "09977835299",
+  "office phone": "977835299",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -166,12 +166,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Magway"
  },
  {
   "region": "Region (3) & (4)",
   "township": "MyitKyiNar",
-  "office phone": "09977835980",
+  "office phone": "977835980",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -179,12 +179,12 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "MyitKyiNar"
  },
  {
   "region": "Region (3) & (4)",
   "township": "BaMaw",
-  "office phone": "09941655649",
+  "office phone": "941655649",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -192,6 +192,6 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "BaMaw"
  }
-]
+  ]
