@@ -62,7 +62,7 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Pathein"
  },
  {
   "region": "Region (2)",
@@ -75,7 +75,7 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Hinthada"
  },
  {
   "region": "Region (2)",
@@ -88,7 +88,7 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Maubin"
  },
  {
   "region": "Region (2)",
@@ -114,7 +114,7 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Sittwe"
  },
  {
   "region": "Region (2)",
@@ -127,6 +127,6 @@
   "phone5": "0",
   "unavailable": "0",
   "notes": "0",
-  "available": "0"
+  "available": "Kyauk Phyu"
  }
-   ]
+  ]
