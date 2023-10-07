@@ -2,7 +2,7 @@
  {
   "region": "Region (5)",
   "township": "MawLaMyaing",
-  "office phone": "09977835921",
+  "office phone": "977835921",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -15,7 +15,7 @@
  {
   "region": "Region (5)",
   "township": "Mudon",
-  "office phone": "09946208707",
+  "office phone": "946208707",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -28,7 +28,7 @@
  {
   "region": "Region (5)",
   "township": "Yae",
-  "office phone": "09946208706",
+  "office phone": "946208706",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -41,8 +41,8 @@
  {
   "region": "Region (5)",
   "township": "ThanPhyuZaYat",
-  "office phone": "09949044429",
-  "phone1": "09949150257",
+  "office phone": "949044429",
+  "phone1": "949150257",
   "phone2": "0",
   "phone3": "0",
   "phone4": "0",
@@ -54,7 +54,7 @@
  {
   "region": "Region (5)",
   "township": "Paung",
-  "office phone": "09941655491",
+  "office phone": "941655491",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -67,7 +67,7 @@
  {
   "region": "Region (5)",
   "township": "Hpa-An",
-  "office phone": "09977835344",
+  "office phone": "977835344",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -80,7 +80,7 @@
  {
   "region": "Region (5)",
   "township": "MyaWaDy",
-  "office phone": "09977872781",
+  "office phone": "977872781",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -93,7 +93,7 @@
  {
   "region": "Region (5)",
   "township": "ThinGyanNyiNaung",
-  "office phone": "09949150089",
+  "office phone": "949150089",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -106,7 +106,7 @@
  {
   "region": "Region (5)",
   "township": "Myeik",
-  "office phone": "09977835949",
+  "office phone": "977835949",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -119,7 +119,7 @@
  {
   "region": "Region (5)",
   "township": "Dawei",
-  "office phone": "09977835363",
+  "office phone": "977835363",
   "phone1": "0",
   "phone2": "0",
   "phone3": "0",
@@ -129,4 +129,4 @@
   "notes": "0",
   "available": "Dawei"
  }
-  ]
+]
